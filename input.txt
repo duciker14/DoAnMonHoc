@@ -1,0 +1,57 @@
+#S1
+Nguyen Quang
+Duc
+22
+10
+10
+10
+10
+#T1
+Tran
+Binh
+35
+12
+#T2
+Nguyen Thanh
+Nam
+25
+10
+#S2
+Ho Thi
+Thao
+19
+8
+7
+9
+7
+#T5
+Nguyen Van
+A
+32
+12
+#S3
+Nguyen Huu
+Tai
+19
+8
+8
+9
+7
+#T3
+Nguyen Dinh
+Tu
+22
+9
+#T4
+Le Huu
+Nam
+30
+8
+#S4
+Nguyen Van
+Bac
+22
+6
+8
+7
+8
